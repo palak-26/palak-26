@@ -13,10 +13,6 @@
   
 </p>
 
-<!-- HEADER VIDEO BANNER -->
-<p align="center">
-  <img width="700" height="400px" alt="Palak Neekhra_ Full-Stack Developer" src="https://github.com/user-attachments/assets/71567c1f-24b0-40a5-a33e-ed6aa659e1a6" />
-</p>
 
 <p align="center">
   <p align="center">
